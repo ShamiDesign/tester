@@ -1,0 +1,36 @@
+* {
+    /* google-chrom */
+    -webkit-box-sizing: border-box;
+    /* fire-fox */
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+
+}
+
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+h1{
+    color: brown;
+    font-size: 4rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {}
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {}
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {}
